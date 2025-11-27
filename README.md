@@ -1,1 +1,3 @@
-Run project "run go main.go"
+Basic project with Goland -> API CRUD BOOKS
+
+Run project "go run main.go"
